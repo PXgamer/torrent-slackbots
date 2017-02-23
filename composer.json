@@ -1,0 +1,12 @@
+{
+    "require": {
+        "pxgamer/torrent-parser-php": "^1.0",
+        "joshcam/mysqli-database-class": "^2.7",
+        "maknz/slack": "^1.7"
+    },
+	"autoload": {
+		"psr-4": {
+			"pxgamer\\TorrentSlackBots\\": "src/"
+		}
+	}
+}
