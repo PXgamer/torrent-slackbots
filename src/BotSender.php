@@ -80,6 +80,11 @@ class BotSender
                         'value' => Q::mksize($result['size']),
                         'short' => true,
                     ],
+                    [
+                        'title' => '',
+                        'value' => '<'.$u->dl.'|Download torrent file>',
+                        'short' => false,
+                    ],
                 ],
             ]
         )->send(

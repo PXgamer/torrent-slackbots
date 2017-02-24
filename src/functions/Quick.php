@@ -1,6 +1,6 @@
 <?php
 
-namespace pxgamer\TorrentSlackBots\Functions;
+namespace pxgamer\TorrentSlackBots\functions;
 
 class Quick
 {
