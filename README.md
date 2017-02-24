@@ -2,6 +2,10 @@
 
 A bot framework for Slack using the ET API.
 
+## Example Screenshot
+
+![https://cdn.pximg.xyz/643951042d2521bc244af15cac2b5aae.png](https://cdn.pximg.xyz/643951042d2521bc244af15cac2b5aae.png)
+
 ## Example Usage
 
 ```php
